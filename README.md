@@ -1,9 +1,4 @@
-# React TypeScript Starter Pack
+Mobile Hub Express — the e-commerce platform for purchasing mobile phones and tabs. With sorting and searching functionalities, finding your perfect device is quick and hassle-free. Technologies: JavaScript, React, Typescript, HTML, CSS, BEM, Figma.
 
-To use this template click `Use this template`
-
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+•Demo - https://oleksii-bieliaiev.github.io/mobile-hub-react/
+•Github Code - https://github.com/oleksii-bieliaiev/mobile-hub-react 
