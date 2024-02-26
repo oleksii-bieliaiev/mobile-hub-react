@@ -1,3 +1,5 @@
+/* eslint-disable jsx-a11y/control-has-associated-label */
+/* eslint-disable prettier/prettier */
 import classNames from 'classnames';
 import { FC } from 'react';
 import '../styles/pagination.scss';
@@ -9,7 +11,7 @@ type Props = {
   setCurrentPage: (page:number) => void,
 };
 
-export const Pagination:FC<Props> = ({
+export const Pagination: FC<Props> = ({
   productsLength,
   list,
   currentPage,

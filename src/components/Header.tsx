@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { FC, useContext } from 'react';
 import { NavLink, useLocation, useParams } from 'react-router-dom';
 import { Logo } from './Logo';

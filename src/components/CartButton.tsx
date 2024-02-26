@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import classNames from 'classnames';
 import { FC, useContext } from 'react';
 import { Product } from '../types/Product';

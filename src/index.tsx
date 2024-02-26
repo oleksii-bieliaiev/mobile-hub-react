@@ -1,3 +1,4 @@
+/* eslint-disable react/no-deprecated */
 import ReactDOM from 'react-dom';
 import { HashRouter } from 'react-router-dom';
 

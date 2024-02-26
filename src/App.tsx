@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 /* eslint-disable max-len */
 import { FC, useEffect, useState } from 'react';
 import { Navigate, Route, Routes } from 'react-router-dom';

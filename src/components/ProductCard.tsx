@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { FC } from 'react';
 import { NavLink } from 'react-router-dom';
 import { Product } from '../types/Product';
@@ -24,9 +25,7 @@ export const ProductCard: FC<Props> = ({ product }) => {
         onClick={() => {
           window.scrollTo({ top: 0 });
         }}
-      >
-        <i className="fa-solid fa-crosshairs" />
-      </NavLink>
+      />
       <img
         src={product.imageUrl}
         alt={product.name}

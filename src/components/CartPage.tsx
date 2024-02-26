@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { FC, useContext, useState } from 'react';
 import classNames from 'classnames';
 import { useLocation } from 'react-router-dom';

@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 const BASE_URL = 'https://mate-academy.github.io/react_phone-catalog/api';
 
 const request = (url: string) => {

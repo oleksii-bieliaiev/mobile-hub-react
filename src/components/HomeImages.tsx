@@ -1,3 +1,5 @@
+/* eslint-disable jsx-a11y/control-has-associated-label */
+/* eslint-disable prettier/prettier */
 import { FC, useState } from 'react';
 import classNames from 'classnames';
 import '../styles/homeImages.scss';

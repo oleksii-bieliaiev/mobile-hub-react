@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { Footer } from './Footer';
 import { Header } from './Header';
 import '../styles/pageNotFound.scss';

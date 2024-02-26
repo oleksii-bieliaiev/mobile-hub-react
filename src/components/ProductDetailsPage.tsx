@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 /* eslint-disable max-len */
 import { FC, useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';

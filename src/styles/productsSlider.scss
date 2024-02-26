@@ -74,6 +74,8 @@
     align-items: center;
     font-size: 2em;
     opacity: 0;
+    background-size: cover; 
+    background-position: center;
 
     &:hover {
       color: black;
@@ -86,6 +88,7 @@
   &__item-image {
     height: 208px;
     padding-bottom: 24px;
+    padding-left: 0.5rem;
   }
 
   &__item-title {

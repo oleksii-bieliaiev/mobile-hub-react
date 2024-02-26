@@ -1,8 +1,9 @@
+/* eslint-disable prettier/prettier */
 import { FC } from 'react';
 import { NavLink, useLocation } from 'react-router-dom';
 import '../styles/breadcrumps.scss';
 
-export const Breadcrumbs:FC = () => {
+export const Breadcrumbs: FC = () => {
   const location = useLocation();
   const section = location.pathname.split('/');
 

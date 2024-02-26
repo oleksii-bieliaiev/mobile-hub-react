@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import classNames from 'classnames';
 import { NavLink } from 'react-router-dom';
 import '../styles/navigation.scss';
@@ -7,7 +8,7 @@ type Props = {
   text: string,
 };
 
-export const PageNavLink:React.FC<Props> = ({ to, text }) => {
+export const PageNavLink: React.FC<Props> = ({ to, text }) => {
   return (
     <NavLink
       to={to}

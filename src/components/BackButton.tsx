@@ -1,7 +1,7 @@
 import { FC } from 'react';
 import '../styles/backButton.scss';
 
-export const BackButton:FC = () => {
+export const BackButton: FC = () => {
   return (
     <button
       type="button"

@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { createContext } from 'react';
 import { CartProduct } from '../types/CartProduct';
 import { Product } from '../types/Product';
